@@ -1,0 +1,34 @@
+#section1{
+     background:url("https://socialmediaweek.org/london/files/2017/06/london2017.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     left:0;
+     top:0;
+}
+
+#section2{
+     background:url("https://travel.usnews.com/static-travel/images/destinations/9/ocean_drive.jpg");
+      background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     left:0;
+     top:0;
+}
+
+#section3{
+     background:url("https://transferwise-blog.s3.amazonaws.com/opening-a-bank-account-in-new-zealand-queenstown.jpg");
+      background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     left:0;
+     top:0;
+}
+
+.section{
+     text-align: center;
+     color: white;
+}
