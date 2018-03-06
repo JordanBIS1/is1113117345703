@@ -1,0 +1,52 @@
+#section1{
+     background:url("https://cdn.ttgtmedia.com/rms/onlineImages/cc_2013_topvendors_01.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     left:0;
+     top:0;
+}
+
+#section2{
+     background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyDVJDyIH2VrkAkqJn7feLLh1b5ORlyyAFsOcF-_ZUS_nvQlvb7A");
+      background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     left:0;
+     top:0;
+}
+
+#section3{
+     background:url("https://www.interoute.com/sites/default/files/products/icons/Cloud%26Hosting_logo_3.png");
+      background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     left:0;
+     top:0;
+}
+#section4{
+     background:url("http://media.bestofmicro.com/J/8/421892/gallery/iaas-providers_w_500.png");
+      background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     left:0;
+     top:0;
+}
+#section5{
+     background:url("http://www.guyettec.com/wp-content/uploads/2013/09/unified_communication_as_a_service1.jpg");
+      background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     left:0;
+     top:0;
+}
+
+.section{
+     text-align: center;
+     color: white;
+}
