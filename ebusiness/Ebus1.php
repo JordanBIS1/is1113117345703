@@ -15,7 +15,7 @@
         
          <h4>Select a Product</h4>
          
-         <br/>
+         </br>
          
          <form method="POST" action="Ebus2.php">
              
@@ -23,19 +23,19 @@
                  <input type="radio" id="salesforce" name="product" checked onClick="disablebtnProceed()"/>
                  Salesforce @ $100
              </label>
-             <br/>
+             </br>
              
              <label for="aws">
                  <input type="radio" id="aws" name="product" checked onClick ="disablebtnProceed()"/>
                  AWS @ $300
              </label>
-             <br/>
+             </br>
              
              <label for="gmail">
              <input type = "radio" id="gmail" name="product" checked onClick ="disablebtnProceed()"/>
              gmail @ $400
              </label>
-             <br/>
+             </br>
              
              <label for="cloud9">
              <input type = "radio" id="cloud9" name="product" checked onClick ="disablebtnProceed()"/>
@@ -47,7 +47,7 @@
                  Sub Total &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                  <input type="text" id="subtotal" name="subtotal" value="0.00" readonly/>
              </label>
-             <br/>
+             </br>
                  
             <label for="discount" class="lbldiscount">
               Discount @ 5%  <input type="text" id="discount"  value="0.00" readonly/>
@@ -60,7 +60,7 @@
               VAT @ 10% &nbsp;&nbsp;&nbsp;&nbsp;
               <input type="text" id="vat"  value="0.00" readonly/>
             </label>
-             <br/>
+             </br>
              
              
              <label for="total">
@@ -68,10 +68,10 @@
                <input type="text" id="total" name="total" value="0.00" readonly/>
              </label>
              
-             <br/>
+             </br>
              
              <button type="submit" id="btnProceed" disabled> Add to Shopping Cart</button>
          </form>
          
-         <br/>
+         </br>
          <button onClick="calcSub()" class= "btncalc">Calculate Cost</button>

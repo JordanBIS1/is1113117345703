@@ -11,7 +11,7 @@
         ?>
         <h4>RECEIPT</h4>
         
-        <br>
+        <br></br>
         <div class="ebus3name">
         <?php
         // Echo session variables that were set on previous page
@@ -19,13 +19,13 @@
         ?>
          </div>
          
-         <br>  
+         <br></br> 
              <?php
         // Echo session variables that were set on previous page
         echo "Email: " . $_SESSION["email"] . ".";
         ?>
         
-        <br>
+        <br></br>
              <?php
         // Echo session variables that were set on previous page
         echo "Total: $" . $_SESSION["total"] . ".";

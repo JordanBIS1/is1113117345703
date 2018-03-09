@@ -15,7 +15,7 @@
         
         <h4>Please enter your payment details.</h4>
         
-            <br />
+            </br>
             
             <form method = "POST" action = "Ebus3.php">
                 
@@ -47,7 +47,7 @@
                 
             </form>
             
-            <br />
+            </br>
             
             <button onClick="validateDetails()"> Validate </button>
         
